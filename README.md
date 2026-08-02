@@ -8,12 +8,41 @@
 
   ## Projects
   ### Sales Analytics Dashboard
+  (Microsoft Excel)
+  Developed an interactive Sales Analytics Dashboard in Microsoft Excel to monitor business performance and provide actionable insights into sales trends, customer behavior and product performance.  The dashboard enables users to filter data by year, gender and product category allowing for business performance monitoring.
   
-  (Excel)
-Analyzed sales data using Pivot tables, charts, and slicers to identify trends and monitor business performance
-### Dashboard Preview
-[Sales Analytics Dashboard]
-(sales analytics dashboard.jpg)
+  ### Tools & Features Used
+  - Microsoft Excel
+  - Pivot Tables
+  - Pivot Charts
+  - Slicers
+  - Data Cleaning
+  - Conditional Formatting
+  - Dashboard design
+  - KPI Cards
+ 
+  ### Key Insights
+  - Visualized monthly sales trends to identify peak and low performing periods
+  - Identified the Top 5 Brands by Sales
+  - Analyzed sales performance by product category
+  - Highlighted the Top 5 Colors generating the highest sales
+ 
+  ### Dashboard Preview
+  [Sales Analytics Dashboard]
+  (sales analytics dashboard.jpg)
+
+  ### Sales Performance Dashboard
+  (Tableau)
+  Developed an interactive Sales Performance Dashboard in Tableau to monitor key business metrics, analyze revenue trends, and evaluate sales performance across countries, product categories and store locations. The dashboard provides dynamic insights through interactive filters and clear visualizations to support data-driven decision making.
+
+   ### Tools & Features Used
+  - Tableau
+  - Data Visualization
+  - Dashboard Design
+  - KPI Reporting
+  - Interactive Filters
+ 
+    ### Dashboard Preview
   ## Contact
   Email: edikanj32@gmail.com
   LinkedIn: https://www.linkedin.com/mwlite/in/edikan-onyekachukwu
