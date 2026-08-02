@@ -60,6 +60,7 @@
 
   #Certification
   ## Nebiant Certified Data Analyst
+  (NCDA Certificate.pdf)
     
   ## Contact
   Email: edikanj32@gmail.com
