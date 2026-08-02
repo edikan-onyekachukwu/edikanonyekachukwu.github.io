@@ -56,7 +56,10 @@
 - Data Visualization
 
    ### Dashboard Preview
-  (hospital management dashboards.jpg) 
+  (hospital management dashboards.jpg)
+
+  #Certification
+  ## Nebiant Certified Data Analyst
     
   ## Contact
   Email: edikanj32@gmail.com
