@@ -4,7 +4,7 @@
 - Tableau
 - R
 - Data Cleaning
-- Data Visualization
+- Power BI
 
   ## Projects
   ### Sales Analytics Dashboard
@@ -28,7 +28,6 @@
   - Highlighted the Top 5 Colors generating the highest sales
  
   ### Dashboard Preview
-  [Sales Analytics Dashboard]
   (sales analytics dashboard.jpg)
 
   ### Sales Performance Dashboard
@@ -55,6 +54,9 @@
 - Power Query
 - Data Modelling
 - Data Visualization
+
+   ### Dashboard Preview
+  (hospital management dashboards.jpg) 
     
   ## Contact
   Email: edikanj32@gmail.com
