@@ -43,6 +43,19 @@
   - Interactive Filters
  
     ### Dashboard Preview
+    (sales dashboard.jpg)
+
+    ### Hospital Management Dashboard
+    (Power BI)
+  Developed an interactive Hospital Management Dashboard in Power BI to monitor appointments, patient demographics, doctor performance and operational KPIs. The dashboard enables users to analyze trends, track actionable insights through dynamic filters and interactive visualizations.
+
+### Tools & Features Used
+- Power BI
+- DAX
+- Power Query
+- Data Modelling
+- Data Visualization
+    
   ## Contact
   Email: edikanj32@gmail.com
   LinkedIn: https://www.linkedin.com/mwlite/in/edikan-onyekachukwu
