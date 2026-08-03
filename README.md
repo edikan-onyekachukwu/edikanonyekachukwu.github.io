@@ -44,6 +44,14 @@
     ### Dashboard Preview
     (sales dashboard.jpg)
 
+  ### Hotel Bookings Dashboard
+    (Tableau)
+  Developed an interactive dashboard on Tableau to analyze hotel booking performance and uncover key business insights. The dashboard enables users to monitor revenue, booking trends, guest preferences, market segments, and cancellation patterns, helping stakeholders make informed data-driven decisions.
+
+    ### Dashboard Preview
+  [hotel bookings dashboard]
+  (tableau dashboard.jpg)
+  
     ### Hospital Management Dashboard
     (Power BI)
   Developed an interactive Hospital Management Dashboard in Power BI to monitor appointments, patient demographics, doctor performance and operational KPIs. The dashboard enables users to analyze trends, track actionable insights through dynamic filters and interactive visualizations.
