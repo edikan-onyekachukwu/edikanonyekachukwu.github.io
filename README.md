@@ -30,6 +30,11 @@
   ### Dashboard Preview
   (sales analytics dashboard.jpg)
 
+  ## Hotel Analysis Dashboard
+  (SQL)
+  This project involved using SQL to analyze a hotel bookings dataset and answer key business questions. I wrote queries to explore booking patterns, customer behavior, revenue generation and cancellation trends. Using aggregate functions, conditional logic and data grouping techniques, I transformed raw data into actionable insights that support business decision making.
+  (SQL Project)
+  
   ### Sales Performance Dashboard
   (Tableau)
   Developed an interactive Sales Performance Dashboard in Tableau to monitor key business metrics, analyze revenue trends, and evaluate sales performance across countries, product categories and store locations. The dashboard provides dynamic insights through interactive filters and clear visualizations to support data-driven decision making.
