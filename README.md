@@ -2,9 +2,9 @@
 - Microsoft Excel
 - SQL
 - Tableau
-- R
 - Data Cleaning
 - Power BI
+- Looker
 
   ## Projects
   ### Sales Analytics Dashboard
