@@ -46,7 +46,7 @@
 
   ### Hotel Bookings Dashboard
     (Tableau)
-  Developed an interactive dashboard on Tableau to analyze hotel booking performance and uncover key business insights. The dashboard enables users to monitor revenue, booking trends, guest preferences, market segments, and cancellation patterns, helping stakeholders make informed data-driven decisions.
+  For my capstone project, I developed an interactive dashboard on Tableau to analyze hotel booking performance and uncover key business insights. The dashboard enables users to monitor revenue, booking trends, guest preferences, market segments, and cancellation patterns, helping stakeholders make informed data-driven decisions.
 
     ### Dashboard Preview
   [hotel bookings dashboard]
